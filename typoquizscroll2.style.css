@@ -1,0 +1,276 @@
+html, body, h1, h2, h3, h4, h5, h6, p {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: rgb(255,255,255);
+	font-family: 'Netto Pro', sans-serif;
+
+}
+
+
+
+h2 {
+	font-size: 18px;
+	color: rgb(0,0,0);
+	font-weight: normal;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	
+}
+
+h3 {
+	font-size: 18px;
+	color: rgb(0,0,0);
+	margin-bottom: 28px;
+	font-weight: normal;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	
+
+}
+
+h4 {
+	font-size: 18px;
+	color: rgb(0,0,0);
+	text-align: center;
+	font-weight: normal;
+}
+
+h5 {
+	font-size: 18px;
+	color: rgb(0,0,0);
+	text-align: center;
+	font-weight: normal;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+p {
+	font-size: 18px;
+	color: rgb(0,0,0);
+	
+	
+}
+
+.weiss {
+	color: rgb(255,255,255);
+}
+
+
+
+.zentral {
+	text-align: center;
+}
+.linkeSpalte {
+	width: auto;
+	float: left;
+	margin-right: 6px;
+
+}
+
+.rechteSpalte {
+	width: auto;
+	float: right;
+	margin-left: 6px;
+
+}
+
+ 
+.hintergrund {
+	background-color: rgb(255,255,255);
+	margin: 0px auto 0px auto;
+	width: 1280px;
+	height: 800px;
+
+	
+}
+
+.hintergrund2 {
+	background-color: rgb(200,200,200);
+	margin: 0px auto 0px auto;
+	width: 1280px;
+	height: 800px;
+	
+}
+
+.hintergrund3 {
+	background-color: rgb(0,0,0);
+	margin: 0px auto 0px auto;
+	width: 1280px;
+	height: 800px;
+	
+}
+
+
+.box1 {
+	background-color: rgb(255,255,255);
+	width: 1122px;
+	height: 87px;
+	margin: 23px 79px 28px 79px;
+	float: left;
+}
+
+.box2 {
+	background-color: rgb(255,255,255);
+	width: 202px;
+	height: 662px;
+	margin: 0px 28px 0px 79px;
+	float: left;
+
+}
+
+.box3 {
+	background-color: rgb(255,255,255);
+	width: 662px;
+	height: 432px;
+	margin: 0px 28px 28px 0px;
+	float: left;
+}
+
+.box4 {
+	background-color: rgb(255,255,255);
+	width: 202px;
+	height: 432px;
+	margin: 0px 79px 28px 0px;
+	float: left;
+
+}
+
+.box5 {
+	background-color: rgb(255,255,255);
+	width: 892px;
+	height: 202px;
+	margin: 0px 79px 0px 0px;
+	float: left;
+}
+
+.box6 {
+	background-color: rgb(200,200,200);
+	width: 1122px;
+	height: 87px;
+	margin: 23px 79px 28px 79px;
+	float: left;
+}
+
+.box7 {
+	background-color: rgb(200,200,200);
+	width: 202px;
+	height: 662px;
+	margin: 0px 28px 0px 79px;
+	float: left;
+
+}
+
+
+.box8 {
+	background-color: rgb(200,200,200);
+	width: 662px;
+	height: 432px;
+	margin: 0px 28px 28px 0px;
+	float: left;
+}
+
+.box9 {
+	background-color: rgb(200,200,200);
+	width: 202px;
+	height: 432px;
+	margin: 0px 79px 28px 0px;
+	float: left;
+
+}
+
+.box10 {
+	background-color: rgb(200,200,200);
+	width: 892px;
+	height: 202px;
+	margin: 0px 79px 0px 0px;
+	float: left;
+}
+
+.box11 {
+	background-color: rgb(0,0,0);
+	width: 1122px;
+	height: 87px;
+	margin: 23px 79px 28px 79px;
+	float: left;
+}
+	
+.box12 {
+	background-color: rgb(0,0,0);
+	width: 202px;
+	height: 662px;
+	margin: 0px 28px 0px 79px;
+	float: left;
+
+}
+
+
+.box13 {
+	background-color: rgb(0,0,0);
+	width: 662px;
+	height: 100px;
+	margin: 0px 28px 0px 0px;
+	float: left;
+}
+
+.box14 {
+	background-color: rgb(0,0,0);
+	width: 321px;
+	height: 88px;
+	float: left;
+	padding-top: 40px;
+	margin-bottom: 28px;
+	margin-right: 28px;
+	
+
+
+
+}
+
+.rundrum {
+  border-width:1px;
+  border-style:solid;
+  border-color: rgb(255,255,255);
+ text-align:justify;
+
+}
+
+h2:hover {
+	color: rgb(150,150,150);
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	
+	
+}
+
+h5:hover {
+	color: rgb(255,255,255);
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	
+	
+}
+
+h3:hover {
+	color: rgb(255,255,255);
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+
+	-webkit-transform: scale(1.1,1.1);
+	-ms-transform: scale(1.1,1.1);
+	-o-transform: scale(1.1,1.1);
+	transform: scale(1.1,1.1);
+}
+
+
+
+
+
